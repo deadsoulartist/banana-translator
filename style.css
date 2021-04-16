@@ -76,6 +76,29 @@ textarea {
   margin: auto;
 }
 
+/* footer */
+footer {
+  margin-top: 50px;
+  padding: 15px;
+  text-align: center;
+  background: black;
+  color: white;
+}
+
+footer ul {
+  padding: 1rem;
+}
+
+footer ul li {
+  display: inline;
+  padding: 10px;
+}
+
+footer ul li a {
+  font-size: 1.8rem;
+  color: white;
+}
+
 /* responsive */
 @media (max-width: 650px) {
   header {
