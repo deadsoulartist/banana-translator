@@ -101,6 +101,13 @@ footer ul li a {
 
 /* responsive */
 @media (max-width: 650px) {
+  footer {
+    margin-top: 50px;
+    padding: 5px;
+    text-align: center;
+    background: black;
+    color: white;
+  }
   header {
     margin-top: 20px;
   }
